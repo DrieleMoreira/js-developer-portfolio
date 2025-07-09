@@ -12,29 +12,29 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/DrieleMoreira/js-developer-portfolio/blob/main/data/imgs/github.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "js",
+        "logo": "https://raw.githubusercontent.com/DrieleMoreira/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/DrieleMoreira/js-developer-portfolio/blob/main/data/imgs/css.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "mongodb",
+        "logo": "https://raw.githubusercontent.com/DrieleMoreira/js-developer-portfolio/blob/main/data/imgs/mongodb.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Fácil aprendizagem",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +42,39 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Básico)",
+    "Espanhol (intermediário)"
+    
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/DrieleMoreira/Js-DIO",
+      "github": true
+    },
+    
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página YU-GI-OH",
+      "url": "https://github.com/DrieleMoreira/js-yugioh-assets",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/DrieleMoreira/DrielesMoreira.github.io",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Analista de suporte técnico / RANDSTAD BRASIL",
+      "period": "2019 - 2025",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Desenvolvedor Front-end / DIO e Dev-Club",
+      "period": "2025",
+      "description": "Desenvolvedora em transição de carreira para Front-end."
     }
+    
   ]
 }
